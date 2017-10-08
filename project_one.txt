@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html>
+    <html>
+        <meta charset = "UTF-8">
+        <title>Welcome to Project One</title>
+    </html>
+    
+    <body>
+        <h1>Project One</h1>
+        <hr>
+        <h2>Poetry</h2>
+        <h3>The Road Not Taken</h3>
+        <blockquote>
+        <p>
+            Two roads diverged in a yellow wood,<br>
+            And sorry I could not travel both<br>
+            And be one traveler, long I stood<br>
+            And looked down one as far as I could<br>
+            To where it bent in the undergrowth;
+        </p>
+        <p>
+            Then took the other, as just as fair,<br>
+            And having perhaps the better claim,<br>
+            Because it was grassy and wanted wear;<br>
+            Though as for that the passing there<br>
+            Had worn them really about the same,
+        </p>
+        <p>
+            And both that morning equally lay<br>
+            In leaves no step had trodden black.<br>
+            Oh, I kept the first for another day!<br>
+            Yet knowing how way leads on to way,<br>
+            I doubted if I should ever come back.
+        </p>
+        <p>
+            I shall be telling this with a sigh<br>
+            Somewhere ages and ages hence:<br>
+            Two roads diverged in a wood, and I—<br>
+            I took the one less traveled by,<br>
+            And that has made all the difference.
+        </p>
+        </blockquote>
+        <hr>
+        <h2>Word</h2>
+        <h3>Apple</h3>
+        <ol>
+            <li>
+                the fleshy, usually rounded red, yellow, 
+                or green edible pome fruit of a usually cultivated 
+                tree (genus Malus) of the rose family
+            </li>
+            <li>
+                a fruit (such as a star apple) or other vegetative growth 
+                (such as an oak apple) suggestive of an apple
+            </li>
+        </ol>
+        <hr>
+        <h2>Quote</h2>
+        <h3>Einstein</h3>
+        <ul>
+            <li><q>Imagination is more important than knowledge.</q></li>
+            <li><q>If the facts don't fit the theory, change the facts.</q></li>
+            <li><q>No problem can be solved from the same level of consciousness that created it.</q></li>
+        </ul>
+        <h3>Dali</h3>
+        <ul>
+            <li><q>I don't do drugs. I am drugs.</q></li>
+            <li><q>Intelligence without ambition is a bird without wings.</q></li>
+            <li><q>There are some days when I think I'm going to die from an overdose of satisfaction.</q></li>
+        </ul>
+        <h3>1984</h3>
+        <blockquote>
+            It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him.
+        </blockquote>
+        <hr>
+        <h2>Doodle</h2>
+        <h3>Grass</h3>
+        <pre>
+                  ＋＋＋           ＋＋＋
+            ＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+            ＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋＋
+                  ＋＋＋           ＋＋＋
+        </pre>
+    </body>
+</html>
